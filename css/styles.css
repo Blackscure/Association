@@ -91,25 +91,27 @@ nav ul ul li a i {
 }
 
 .banner {
-    background: url("https://images.unsplash.com/photo-1586227740560-8cf2732c1531?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1861&q=80");
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F170000%2Fvelka%2Fbanner-business-background-webpage.jpg&f=1&nofb=1");
     background-position: center;
     background-size: cover;
-    height: 80vh;
+    height: 50;
     text-align: center;
     background-color: cornflowerblue;
 }
 
 #slogan-banner {
     padding-top: 150px;
-    text-shadow: 3px 3px 5px cornflowerblue;
+    text-shadow: 3px 3px 5px rgb(11, 13, 17);
 }
 
 #slogan-banner h4 {
+    margin: 20px;
     font-size: 40px;
     color: white;
 }
 
 #slogan-banner p {
+    margin-bottom: 15px;
     font-size: 25px;
     color: white;
 }
