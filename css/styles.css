@@ -153,6 +153,7 @@ nav ul ul li a i {
     text-align: center;
     font-size: 25px;
     padding-top: 25px;
+    color: cornflowerblue;
 }
 
 .icon img {
@@ -182,12 +183,24 @@ nav ul ul li a i {
     justify-content: space-between;
 }
 
+.inspiration h5 {
+    color: cornflowerblue;
+}
+
 .inspiration-2 {
     display: flex;
     flex-direction: row;
     padding: 20px;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.inspiration-2 h5 {
+    color: cornflowerblue;
+}
+
+.card-body h5 {
+    color: cornflowerblue;
 }
 
 footer {
