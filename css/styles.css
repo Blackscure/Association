@@ -54,12 +54,7 @@ body {
     margin: 20px;
     font-size: 40px;
     color: white;
-}
-
-#slogan-banner p {
-    margin-bottom: 15px;
-    font-size: 25px;
-    color: white;
+    padding-bottom: 170px;
 }
 
 .mission {
@@ -161,7 +156,7 @@ footer {
     text-align: left;
     font: bold 16px sans-serif;
     padding: 55px 50px;
-    margin-top: 80px;
+    margin-top: 50px;
 }
 
 .footer-distributed .footer-left,
